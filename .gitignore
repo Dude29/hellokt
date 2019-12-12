@@ -1,0 +1,8 @@
+# Intellij folders
+.idea
+
+# Build artifacts
+build/
+
+# Gradle execution data folder
+.gradle
